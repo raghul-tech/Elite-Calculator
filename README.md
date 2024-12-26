@@ -79,72 +79,17 @@ Elite Calculator is designed for simplicity and performance. It offers a clean i
 1. Visit the [Microsoft Store](https://apps.microsoft.com/detail/9pcn88z0l6hn?hl=en-GB&gl=IN).
 2. Click "Install" to download and use the application.
 
-<style>
-#download-btn {
-    background-color: #0078d4; 
-    color: white;
-    border: none;
-    padding: 10px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-#download-btn a {
-    color: white;
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#download-btn:hover {
-    background-color: #005a9e; 
-}
-</style>
-
-<button id="download-btn">
     <a href="https://apps.microsoft.com/detail/9pcn88z0l6hn?launch=true&mode=mini" target="_blank" rel="noopener noreferrer">
-        <img src="img/microsoft.png" alt="Download Elite Calculator from Microsoft Store" width="20"/>
-          Download Elite Calculator from Microsoft Store
+       <img src="img/microsoft.png" alt="Download Elite Calculator from Microsoft Store" width="80"/>
     </a>
-</button>
 
 ### From itch.io
 1. Go to [itch.io](https://raghul-tech.itch.io/elite-calculator).
 2. Download the application and follow the setup instructions.
 
-<style>
-#download-btn-itchio {
-     background-color: #fa5c5c;
-    color: white;
-    font-weight: bold;
-    border: none;
-    padding: 10px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-#download-btn-itchio a {
-    color: white;
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#download-btn-itchio:hover {
-    background-color: #2c2c2c; 
-}
-</style>
-
-<button id="download-btn-itchio">
     <a href="https://raghul-tech.itch.io/elite-calculator" target="_blank" rel="noopener noreferrer">
-        <img src="img/itchio.svg" alt="Download Elite Calculator from itch.io" width="60"/>
-        Download Elite Calculator from itch.io
+      <img src="img/itchi.png" alt="Download Elite Calculator from itch.io" width="150"/>
     </a>
-</button>
 
 ### From SourceForge
 1. Navigate to [SourceForge](https://sourceforge.net/projects/elite-calculator/).
